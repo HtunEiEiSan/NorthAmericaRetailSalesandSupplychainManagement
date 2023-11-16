@@ -1,1 +1,31 @@
+North America Retail Supply Chain and Sales Analysis Dashboard Documentation
+Overview:
+This dashboard provides a high-level overview of the performance of the North America retail supply chain and sales operations. The dashboard includes a variety of charts and graphs that track key metrics such as total sales, total orders, average delivery days, total profit, return rate, and sales by region, category, and retail sales person.
 
+Data Sources:Fp20AnalyticsChallenge
+Key Metrics
+The dashboard tracks the following key metrics:
+Total Sales: The total value of all sales during the selected date range.
+Total Orders: The total number of orders placed during the selected date range.
+Average Delivery Days: The average number of days it takes to deliver an order to the customer.
+Total Profit: The total profit generated from sales during the selected date range.
+Return Rate: The percentage of sales that are returned by customers.
+Sales by Region: The total value of sales for each region.
+Sales by Category: The total value of sales for each product category.
+Sales by Retail Sales Person: The total value of sales for each retail sales person.
+
+Charts and Graphs
+The dashboard includes the following charts and graphs:
+Total Sales Trend: This chart shows the trend of total sales over the selected date range.
+Total Orders Trend: This chart shows the trend of total orders over the selected date range.
+Average Delivery Days by Region: This chart shows the average delivery days for each region.
+Total Profit by Region: This chart shows the total profit for each region.
+Return Rate by Region: This chart shows the return rate for each region.
+Sales by Region and Category: This chart shows the sales by region and product category.
+Average Delivery Days by Segment: This chart shows the average delivery days for each customer segment (corporate, home office, consumer).
+Returned Rate % by Ship Mode: This chart shows the returned rate by ship mode (same day, first class, standard class, second class).
+
+Conclusion
+
+The North America Retail Supply Chain and Sales Analysis Dashboard provides a valuable tool for users to track the performance of the North America retail supply chain and sales operations. 
+Users can use the dashboard to identify areas where improvement is needed and to make informed decisions about how to improve the performance of the supply chain and sales operations.
